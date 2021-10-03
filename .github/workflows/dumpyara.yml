@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/21.9.29/miui_STAR_21.9.29_39e3de4ee2_12.0.zip
+  ROM_URL: https://doc-04-8s-docs.googleusercontent.com/docs/securesc/238fhiqshgd6pe99s737e6otsl9i79te/3nl74tvst9b5q98m501tk5cu64eifsgv/1633295325000/16743045059462209023/13239862267367464918/18qJ9OnR5vRzcnxD96LqEZbcW9vEywqVd?e=download&authuser=0&nonce=l4mg3po5m22j4&user=13239862267367464918&hash=1e5rupo9fs1tm14veh2ce9r84picms0j
