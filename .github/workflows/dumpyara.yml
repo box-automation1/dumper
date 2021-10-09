@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://throbbing-bonus-11c9.octavios.workers.dev/0:/merlinx/OctaviOS-v2.9.1-merlinx-20211008-0313-GAPPS-Official.zip
+  ROM_URL: https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzM3MDU1MzUiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6IjcwNDFhY2Y0NmNjMDgyNzFkOGNmZWY4ZmE1MDMzYmFiMTI1NjcwNWE2OWQxYjg3NGVjMDgyMWY3YjcyZGEwZjAyNmY0YzE2MGFjYTM5MTg4Y2YyNGFjYjNiZmNmNWVjODgwODRlY2EyZGQzYTFlOTg2NWM0NjUwYTZhYmNkMzc0IiwidCI6MTYzMzc5OTg3NSwic3RmcCI6IjhmOGVkNGM3OGMzMDU1MzgxZDRhZGIyMzc0MjM4NzM4Iiwic3RpcCI6IjI0MDU6MjAxOjA6NzBiYTo0NmUzOjhlY2Y6NmZlNzpkYzdjIn0.JBRRdJ9FSXTOi0WvZlK2c663dLt0VDe-OWMaXya8C7g/PixelPlusUI_3.10_merlin-11.0-20211008-0559-OFFICIAL.zip
