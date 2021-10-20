@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://doc-0s-6o-docs.googleusercontent.com/docs/securesc/7gv35f13g7tmtvt8537j2ii2mk2jm92q/8lmt5f97srlqgrf0srtp2m6u578unua1/1634718975000/15295530470937100467/14650009573211027076Z/1sLzgxnDI0YEtIiU7ikRrhyXzuGSmMQZB?e=download&nonce=ultkardab2oek&user=14650009573211027076Z&hash=5g2egjoqqvtu5dt8r6cqphesi4rks7h0
+  ROM_URL: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0710_all_i3cdf6V7tk6F.ozip
