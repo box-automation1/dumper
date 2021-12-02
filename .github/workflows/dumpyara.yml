@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://throbbing-bonus-11c9.octavios.workers.dev/0:/Whyred/OctaviOS-v3.1-whyred-20211120-0656-VANILLA-OFFICIAL.zip
+  ROM_URL: https://roms.cirrus-ci.workers.dev/0:/holland2/dotOS-R-v5.2-holland2-UNOFFICIAL-20211112-0557.zip
