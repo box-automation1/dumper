@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://ava2.androidfilehost.com/dl/2yHbxBNeMTaa28yW_t2vHg/1638696878/8889791610682878688/Infinix_Note_7_X690B_MT6768_V107_191220.zip
+  ROM_URL: https://oss.ztedevices.com/prod/cn/direct/ztea2022/419051B16_MR18MyOS11.5.16_A2022(SD%E5%8D%A1%E5%8D%87%E7%BA%A7%E5%8C%85).zip
