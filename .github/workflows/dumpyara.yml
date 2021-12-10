@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/SM-G550FY_1_20171221190539_G550FYXXU1CQL6%28Repairmymobile.in%29.zip
+  ROM_URL: https://boxmirrorbomt.boxuserbomt.workers.dev/0:/G550FYXXU1CRD1_G550FYODD1CRD2_INS.zip
