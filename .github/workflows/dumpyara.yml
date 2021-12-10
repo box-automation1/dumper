@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://hugeota.d.miui.com/V12.5.5.0.RKOCNXM/miui_LISA_V12.5.5.0.RKOCNXM_9c4f6c0bcc_11.0.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/SM-G550FY_1_20171221190539_G550FYXXU1CQL6%28Repairmymobile.in%29.zip
