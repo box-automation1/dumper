@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://mirror.akashmirrorbot.workers.dev/0://XQ-BQ52_EEA_61.0.A.11.121.rar
+  ROM_URL: https://boxmirrorbomt.boxuserbomt.workers.dev/0:/G550FYXXU1CRD1_G550FYODD1CRD2_INS.zip
