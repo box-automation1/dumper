@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: http://boxmirrorbomt.boxmirrorbomt.workers.dev/0:/MirrorBomt1/lineage-17.1-20210408-UNOFFICIAL-TBX304.zip
+  ROM_URL: https://boxmirrorbomt.boxuserbomt.workers.dev/0:/OriginOS-Ocean-AB-3.8GB-xiaoleGun-SGSI.7z
