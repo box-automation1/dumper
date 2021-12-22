@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: http://boxmirrorbomt.boxmirrorbomt.workers.dev/0:/MirrorBomt1/JST_P30-9863A-NO-PlatinumTAB10_4G_V3_EEA_8279_new_20201212_20210322.pac.7z
+  ROM_URL: http://download.microsoft.com/pr/Win10_21H2_EnglishInternational_x64.iso?t=7e0e287f-509b-44cc-bac0-d6b6293b3764&e=1640261891&h=dfe31fb41fd0f4e3c503d68d146e8f77
