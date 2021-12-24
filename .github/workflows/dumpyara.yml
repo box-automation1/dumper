@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://fileload.coloros.com/504219RMX2040export_11_C.10_2021112000260000.zip
+  ROM_URL: https://link.ap1.storjshare.io/s/jxwvrtipocc6ezklsedysveaulyq/pixelexperience8a55844831018ff94dc3320e472ff3cb/lavender/PixelExperience_Plus_lavender-11.0-20210915-1722-OFFICIAL.zip?download
