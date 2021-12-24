@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.1.0.PEKMIXM/miui_HMNote6ProGlobal_V12.0.1.0.PEKMIXM_1920d51d84_9.0.zip
+  ROM_URL: http://boxmirrorbomt.boxmirrorbomt.workers.dev/0:/MirrorBomt1/BLOW.zip
