@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://sauraj.rommirrorer.workers.dev/0:/RMX2151/MADHAV-OS/MadhavOS_v6.0-12-RM6785-12012022-OFFICIAL-0443.zip
+  ROM_URL: https://gauss-componentotacostmanual-in.allawnofs.com/remove-9a93b5808844b584d948991a063dd4f7/component-ota/22/01/13/d2cfb149dffe455dbc3b5b138964a41e.zip
