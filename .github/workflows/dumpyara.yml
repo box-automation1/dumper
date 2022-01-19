@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://boxmirrorbomt.boxuserbomt.workers.dev/0:/PixelPlusUI_4.1_lava-12.0-20220119-1556-OFFICIAL.zip
+  ROM_URL: https://boxmirrorbomt.boxuserbomt.workers.dev/0:/PixelPlusUI_4.1_merlinx-12.0-20220119-1422-OFFICIAL.zip
