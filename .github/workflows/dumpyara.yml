@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://boxaltroms.vercel.app/api?path=/roms/lava/PixelPlusUI_4.1_lava-12.0-20220119-1821-OFFICIAL.zip&raw=true
+  ROM_URL: https://download.c.realme.com/flash/Rollbackpack/realme_GT_Master_Edition/RMX3360_11_A_fullota_00011011.zip
