@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://download.c.realme.com/flash/Rollbackpack/realme_8/oplus_ota_downgrade.zip
+  ROM_URL: https://gauss-componentotacostmanual-in.allawnofs.com/remove-dd57bfeeb61860e77e49d3b679b4b085/component-ota/22/01/07/464fb36f1dd748758f3e387f4ae68fd8.zip
