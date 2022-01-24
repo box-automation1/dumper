@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://fileload.coloros.com/504296RMX2185_11_A.101_211211_a30f16e5.zip
+  ROM_URL: https://boxmirrorbomt2.boxuserbomt.workers.dev/0:/boxdrive/%5Bfirmware27%5DRMX2185_11_A.51_200626_1d40b335.zip
