@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://fileload.coloros.com/504296RMX2185_11_A.101_211211_a30f16e5.zip
+  ROM_URL: https://sourceforge.net/projects/sarthak-android-projects/files/ROMs/RMX2020/Arrow-v12.0-RMX2020-UNOFFICIAL-20220109-GAPPS.zip/download
