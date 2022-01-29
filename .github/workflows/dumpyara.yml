@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://gauss-componentotacostmanual-in.allawnofs.com/remove-a6a117ce963fc2e25cd0e1e30bb8da09/component-ota/22/01/25/3f123e634a2a4a80905bd7a127b85c8f.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/super.img
