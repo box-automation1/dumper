@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://dl.antonino.workers.dev/1:/miui_VAYUGlobal_V12.5.7.0.RJUMIXM_9847c652ee_11.0.zip
+  ROM_URL: http://boxmirrorbomt.boxmirrorbomt.workers.dev/0:/MirrorBomt1/CipherOS-2.0-KNIGHT-cipher_RMX1831-20211125-1552-BETA-UNOFFICIAL-VANILLA%20%281%29.zip
