@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/oriole-sq1d.220205.003-factory-a5a63f2a.zip
+  ROM_URL: https://coco.zeus404xd.workers.dev/0:/404XD-1/otaPackage.part2.rar
