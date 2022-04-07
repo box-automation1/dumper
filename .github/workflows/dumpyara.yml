@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://bigota.d.miui.com/V13.0.9.0.RGCMIXM/miui_SPESGlobal_V13.0.9.0.RGCMIXM_bddb102a5b_11.0.zip
+  ROM_URL: https://boxaltroms.vercel.app/api/raw/?path=/autoupload/crDroidAndroid-11.0-20220407-merlinx-v7.16.zip
