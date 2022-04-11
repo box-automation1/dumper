@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://sourceforge.net/projects/crdroid/files/merlinx/7.x/crDroidAndroid-11.0-20220407-merlinx-v7.16.zip/download
+  ROM_URL: https://downloads.projectelixiros.com/twelve/cepheus/ProjectElixir_1.6_cepheus-12.1-20220410-1356-OFFICIAL.zip
