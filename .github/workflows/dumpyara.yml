@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://boxmirrorbomt.boxmirrorbomt.workers.dev/0:/MirrorBomt1/Jio_Phone_Next_Software_File-04.009.221021%28Software_Cr_Ck_Guru%29.rar
+  ROM_URL: http://boxmirrorbomt.boxmirrorbomt.workers.dev/0:/MirrorBomt1/jiophone.zip
