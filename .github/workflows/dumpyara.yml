@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/RMX3370GDPR_11_A.09_2022031701120000/RMX3370GDPR_11_A.09_2022031701120000/RMX3370GDPR_11_A.09_2022031701120000.ofp
+  ROM_URL: http://boxmirrorbomt.boxmirrorbomt.workers.dev/0:/MirrorBomt1/RMX3370_Android12_RUI3_C02_%28Europe%29/SuperPartition.img
