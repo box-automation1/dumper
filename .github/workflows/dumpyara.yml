@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: http://boxmirrorbomt.boxmirrorbomt.workers.dev/0:/MirrorBomt1/RMX3370_Android12_RUI3_C02_%28Europe%29/SuperPartition.img
+  ROM_URL: https://gauss-componentotacostmanual-sg.allawnofs.com/remove-be2b541349ae4405a5c360d328ea3880/component-ota/22/03/24/315e04ee79a040fc909369011a330e4a.zip
