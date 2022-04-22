@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://gauss-componentotacostmanual-sg.allawnofs.com/remove-be2b541349ae4405a5c360d328ea3880/component-ota/22/03/24/315e04ee79a040fc909369011a330e4a.zip
+  ROM_URL: https://hugeota.d.miui.com/22.3.29/miui_CANNONPRE_22.3.29_f31d8616d7_12.0.zip
