@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://boxdrive.vercel.app/api/raw/?path=/Public/firmwares/smt537v/A4-VZW-T537VVRU2ANK1-20141222120004.zip
+  ROM_URL: https://boxdrive.vercel.app/api/raw/?path=/Public/firmwares/smt537v/A5-VZW-T537VVRS3BPL1-20170116092928.zip
