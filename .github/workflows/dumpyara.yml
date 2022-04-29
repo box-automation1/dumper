@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: http://boxmirrorbomt.boxmirrorbomt.workers.dev/0:/MirrorBomt1/smT537V_android5.1.1_4_PARTS.7z
+  ROM_URL: https://boxdrive.vercel.app/api/raw/?path=/Public/firmwares/smt537v/A4-VZW-T537VVRU2ANK1-20141222120004.zip
