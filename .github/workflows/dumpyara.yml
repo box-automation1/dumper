@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://github.com/ivanmeler/ota_provider/releases/download/dream2lte_lineage-19.1_1652244333/lineage-19.1-20220511-UNOFFICIAL-dream2lte.zip
+  ROM_URL: https://boxmirrorbomt.boxmirrorbomt1.workers.dev/0:/MirrorBomt2/crDroidAndroid-12.1-20220511-miatoll-v8.5.zip
