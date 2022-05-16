@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: http://boxmirrorbomt.boxmirrorbomt.workers.dev/0:/MirrorBomt1/crDroidAndroid-12.1-20220511-miatoll-v8.5.zip
+  ROM_URL: https://sourceforge.net/projects/crdroid/files/miatoll/8.x/crDroidAndroid-12.1-20220511-miatoll-v8.5.zip/download
