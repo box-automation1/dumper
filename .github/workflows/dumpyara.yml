@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://sourceforge.net/projects/ancientrom/files/mojito/AncientOS-S-Shield-v6.2-mojito-Steel-20220415-0929-Vanilla.zip/download
+  ROM_URL: https://downloads.sourceforge.net/project/cherish-os/device/miatoll/Cherish-OS-v3.7-20220505-1659-miatoll-OFFICIAL-GApps.zip
