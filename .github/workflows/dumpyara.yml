@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://gauss-componentotacostmanual-sg.allawnofs.com/remove-80272dd071ce1e970b422884a4b89f01/component-ota/22/05/18/41ed7cd8d3f4402c9f94b5853596d512.zip
+  ROM_URL: https://oxygenos.oneplus.net/OnePlus8TOxygen_15.I.27_OTA_0270_all_2110091932_downgrade.zip
