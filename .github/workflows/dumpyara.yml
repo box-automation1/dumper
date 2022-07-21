@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://r6---sn-gwpa-cvhz.gvt1.com/packages/data/ota-api/package/435fc808f603bbc8a63ce30fd944676a65a61d6f.zip?cms_redirect=yes&mh=Ru&mip=49.36.107.143&mm=31&mn=sn-gwpa-cvhz&ms=au&mt=1658338391&mv=m&mvi=6&pcm2cms=yes&pl=20
+  ROM_URL: https://dwnld.aicp-rom.com/device/kebab/WEEKLY/aicp_kebab_s-17.1-WEEKLY-20220719.zip
