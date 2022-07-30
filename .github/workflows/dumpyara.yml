@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://github.com/orkunergun/Cirrus-Script/releases/download/PixelOS-Pixelish/PixelOS_lava-12.1-20220730-1758.zip
+  ROM_URL: https://github.com/orkunergun/Cirrus-Script/releases/download/PixelOS-Pixelish/PixelOS_lava-12.1-20220725-1536.zip
