@@ -73,4 +73,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.14.0.RKLMIXM/rosemary_global_images_V12.5.14.0.RKLMIXM_20211110.0000.00_11.0_global_8a7639cd9e.tgz
+  ROM_URL: https://bigota.d.miui.com/V12.5.8.0.RJCCNXM/lancelot_images_V12.5.8.0.RJCCNXM_20220427.0000.00_11.0_cn_2173e00bf4.tgz
